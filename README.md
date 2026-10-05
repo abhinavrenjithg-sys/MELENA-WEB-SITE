@@ -12,6 +12,20 @@
 
 ---
 
+## 📸 Website Visual Previews
+
+### 1. Editorial 3D Hero Section (`100dvh`)
+*Continuous horizontal typography marquee, authentic studio portrait cutout in 3D layering, and minimalist typography.*
+
+![S F Melena Portfolio Hero](docs/preview.png)
+
+### 2. Flagship Project & Interactive Analytics (GlanhzeeTrade.ai)
+*Real-time sentiment NLP polarity scoring paired with quantitative indicators ($NVDA, $AAPL, $TSLA, $MSFT, $INFY).*
+
+![GlanhzeeTrade.ai Project Preview](docs/preview-project.png)
+
+---
+
 ## 🌟 Highlights
 
 - **Editorial 3D Full-Bleed Hero (`100dvh`)**: Infinite scrolling typography marquee (`Melena — S F`), authentic studio portrait cutout in 3D layering, and minimalist typography.
@@ -28,6 +42,7 @@
 
 - **Firebase Hosting**: [https://melena-25092.web.app](https://melena-25092.web.app)
 - **Alternate Domain**: [https://melena-25092.firebaseapp.com](https://melena-25092.firebaseapp.com)
+- **Direct CV Download**: [https://melena-25092.web.app/SFMELENA_CV.pdf](https://melena-25092.web.app/SFMELENA_CV.pdf)
 
 ---
 
